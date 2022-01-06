@@ -16,10 +16,9 @@ f1.enqueue(4)
 ```
 
 ### a) p1.push(f1.dequeue())
-### b) p1.push(f1.getFirst())
+### b) f1.enqueue(p1.pop())
 ### c) f1.enqueue(f1.dequeue())
 ### d) p1.push(p1.pop())
-### e) f1.enqueue(p1.pop())
 
 # Questão 2
 
